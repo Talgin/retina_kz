@@ -1,0 +1,3 @@
+/home/ti/Downloads/insightface/RetinaFace/detector/CMakeFiles/rebuild_cache.dir
+/home/ti/Downloads/insightface/RetinaFace/detector/CMakeFiles/detector.dir
+/home/ti/Downloads/insightface/RetinaFace/detector/CMakeFiles/edit_cache.dir

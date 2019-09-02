@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( detector )
+find_package( OpenCV REQUIRED )
+include_directories( ${/usr/local/include} )
+add_executable( detector detector.cpp )
+target_link_libraries( detector ${/usr/local/lib} )
